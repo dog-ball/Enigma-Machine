@@ -2,7 +2,7 @@
 A simulation of a WWII Enigma machine using Python. 
 This code was submitted as a project for a programming module of my MSc in Artifical Intelligence at the University of Bath and it recieved 84/100. 
 
-Alongside the simulation of the functionality of the machine found in enigma.py and some examples of code_breaking techniques in code_breaking.py I have also provided some additional work around error handling, security and testing the simulation outlined below:
+Alongside the simulation of the functionality of the machine found in enigma.py and some examples of code breaking techniques in code_breaking.py I have also provided some additional work around error handling, security and testing the simulation outlined below:
 
 
 ## Additional work
